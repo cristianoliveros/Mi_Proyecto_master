@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+}
+form {
+    width: 40%;
+    margin: 0 auto 0 auto;
+}
+fieldset {
+    border-radius: 8px;
+    color: rgb(14, 2, 26);
+}
