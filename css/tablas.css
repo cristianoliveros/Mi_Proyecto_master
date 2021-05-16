@@ -1,0 +1,65 @@
+ul {
+    font-size: 1.3em;
+    text-align: right;
+    background: royalblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: white;
+    }
+    li{
+        display: inline;
+        padding: 20px;
+    }
+    .menu-contactenos{
+        margin-right: 30px;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+
+    }
+    table{
+        font-size: 2em;
+        border-collapse: collapse;
+        margin: 25px;
+        margin: 25px auto;
+        width: 70%;
+    }
+    th, td{
+       border: 2px solid white;
+       padding: 10px;
+       text-align: center; 
+    
+    }
+    .programacion{
+        width: 50%;
+    }
+ .head-paquete, .head-paquete-sub{
+     background: darkcyan;
+     color: white;
+     font-weight: 900;
+ }   
+ .head-paquete{
+    border-top-left-radius:  20px;
+    border-bottom: 2px solid darkcyan;
+ }
+ .head-basic-sub{
+     font-size: .7em;
+    
+ }
+ .head-programacion, .head-programacion-sub{
+     background: rgb(12,155,76);
+     color: white;
+     font-weight: 900;
+ }
+ .head-basic, .head-basic-sub{
+     background: rgb(66,167,255);
+     color: white;
+     font-weight: 900;
+ }
+ td {
+     background: rgb(225,225,225,.4);
+ }
+.borde-inferior-izquierdo {
+    border-bottom-left-radius: 20px;
+}

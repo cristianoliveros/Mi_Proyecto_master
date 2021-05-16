@@ -1,3 +1,23 @@
+ul {
+    font-size: 1.3em;
+    text-align: right;
+    background: royalblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    color: white;
+    }
+    li{
+        display: inline;
+        padding: 20px;
+    }
+    .menu-contactenos{
+        margin-right: 30px;
+    }
+    a{
+        color: white;
+        text-decoration: none;
+
+    }
 /* clase de elemento*/
 h1 {
     font-size: 60px;
